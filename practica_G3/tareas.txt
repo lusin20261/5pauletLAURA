@@ -1,0 +1,5 @@
+1:limpiar mi cuarto
+2:lavar
+3:ordenar mi rpa
+4:ayudar a mi mamá
+5:hacer mis tareas
